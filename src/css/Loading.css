@@ -1,0 +1,42 @@
+.formContents {
+    position: relative;
+    width: 374px;
+    height: 643px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loadingText {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #226bef;
+    animation-direction: normal;
+    animation-name: text;
+    animation-delay: 2s;
+}
+
+@keyframes text {
+    0% {
+        color: rgba(34, 107, 239, 0);
+
+    } 
+    50% {
+        color: rgba(34, 107, 239, 0.5);
+    }
+    100% {
+        color: rgba(34, 107, 239, 1);
+    }
+}
+
+.LoadingLogo {
+    width: 170px;
+    height: 42.1px;
+}

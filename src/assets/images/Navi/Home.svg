@@ -1,0 +1,43 @@
+<svg id="home_disabled" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: #e6e6e6;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #e6e6e6;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <rect id="search_disabled" class="cls-1" width="32" height="32"/>
+  <g id="그룹_1478" data-name="그룹 1478" transform="translate(4 2)">
+    <g id="그룹_1479" data-name="그룹 1479">
+      <g id="패스_1579" data-name="패스 1579" class="cls-2" transform="translate(0 8.804)">
+        <path class="cls-5" d="M0,1.1,12.079-8.8,24,1.1V16.2H0Z"/>
+        <path class="cls-6" d="M 12.07490634918213 -7.507326126098633 L 1 1.57053804397583 L 1 15.19622802734375 L 23 15.19622802734375 L 23 1.566580772399902 L 12.07490634918213 -7.507326126098633 M 12.07909965515137 -8.80377197265625 L 24 1.097208023071289 L 24 16.19622802734375 L 0 16.19622802734375 L 0 1.097208023071289 L 12.07909965515137 -8.80377197265625 Z"/>
+      </g>
+      <path id="패스_1460" data-name="패스 1460" class="cls-3" d="M1574.3,669.581" transform="translate(-1574.299 -660.74)"/>
+    </g>
+  </g>
+  <g id="사각형_2000" data-name="사각형 2000" class="cls-4" transform="translate(12 17)">
+    <rect class="cls-5" width="8" height="10"/>
+    <rect class="cls-7" x="0.5" y="0.5" width="7" height="9"/>
+  </g>
+</svg>

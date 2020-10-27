@@ -1,0 +1,124 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.totalForm {
+    width: 374px;
+    height: 667px;
+    border: 1px solid #000;
+}
+
+.logo {
+    position: relative;
+    width: 100%;
+    height: 54px;
+    margin: 0 auto;
+    top: 80px;
+}
+
+.loginForm {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 170px;
+}
+
+.id,
+.password {
+    padding-left: 11px;
+
+}
+
+.password {
+    margin-top: 11px;
+}
+
+.loginForm>input {
+    width: 290px;
+    height: 44px;
+    border-radius: 4px;
+    font-family: "NotoSansCJKkr";
+    font-size: 14px;
+    border: solid 1px #e6e6e6;
+}
+
+.idSave {
+    position: relative;
+    width: 100%;
+    left: 35px;
+    top: 175px;
+}
+
+.idSave input {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: none;
+}
+
+.idSave label {
+    position: relative;
+    top: -5px;
+    width: 105px;
+    height: 18px;
+    font-size: 12px;
+    object-fit: contain;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #767676;
+    margin-left: 10px;
+}
+
+.button {
+    position: relative;
+    top: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginBtn,
+.signUpBtn {
+    position: relative;
+    width: 290px;
+    height: 48px;
+    object-fit: contain;
+    border: solid 1px #226bef;
+    border-radius: 5px;
+}
+
+.loginBtn {
+    background-color: #fff;
+    color: #226bef;
+}
+
+.signUpBtn {
+    background-color: #226bef;
+    color: #fff;
+    margin-top: 12px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.text {
+    position: relative;
+    width: 305px;
+    height: 32px;
+    object-fit: contain;
+    font-family: NotoSansCJKkr;
+    font-size: 11px;
+    line-height: 1.36;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #c6c6c6;
+    top: 280px;
+    left: 10px;
+    margin: 0 auto;
+
+}
+
+p span {
+    color: #226bef;
+}

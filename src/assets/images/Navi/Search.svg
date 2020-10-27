@@ -1,0 +1,38 @@
+<svg id="search_disabled" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b5b5b5;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #e6e6e6;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: square;
+      }
+
+      .cls-3 {
+        fill: #4ce8ac;
+      }
+    </style>
+  </defs>
+  <g id="search_icon" transform="translate(-0.292)">
+    <rect id="사각형_1645" data-name="사각형 1645" class="cls-1" width="32" height="32" transform="translate(0.292)"/>
+    <g id="그룹_879" data-name="그룹 879" transform="translate(5 5)">
+      <path id="패스_1068" data-name="패스 1068" class="cls-2" d="M14.412,14.412l7.451,7.451" transform="translate(-0.196 -0.196)"/>
+      <circle id="타원_434" data-name="타원 434" class="cls-2" cx="8" cy="8" r="8" transform="translate(0.292 0)"/>
+    </g>
+  </g>
+  <g id="그룹_3261" data-name="그룹 3261" transform="translate(4.708 5)">
+    <path id="패스_1068-2" data-name="패스 1068" class="cls-3" d="M14.412,14.412l7.451,7.451" transform="translate(-0.196 -0.196)"/>
+    <circle id="타원_434-2" data-name="타원 434" class="cls-2" cx="8" cy="8" r="8" transform="translate(0.292)"/>
+    <path id="패스_3072" data-name="패스 3072" class="cls-4" d="M3443.773-437.2a4.606,4.606,0,0,1,4.762,4.878" transform="translate(-3435.347 440.153)"/>
+  </g>
+</svg>

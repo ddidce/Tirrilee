@@ -1,0 +1,26 @@
+<svg id="mypage_disabled" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #44d89f;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #226bef;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect id="사각형_1871" data-name="사각형 1871" class="cls-1" width="32" height="32"/>
+  <g id="그룹_1499" data-name="그룹 1499" transform="translate(2.193 2.372)">
+    <g id="그룹_1423" data-name="그룹 1423" transform="translate(0 0)">
+      <g id="그룹_73441" data-name="그룹 73441">
+        <ellipse id="타원_558" data-name="타원 558" class="cls-2" cx="5.134" cy="5.134" rx="5.134" ry="5.134" transform="translate(8.866 3.489)"/>
+        <path id="패스_1445" data-name="패스 1445" class="cls-2" d="M1637.123,999.827a13.044,13.044,0,0,1,11.264,6.457,14,14,0,1,0-22.528,0A13.045,13.045,0,0,1,1637.123,999.827Z" transform="translate(-1623.123 -983.967)"/>
+        <path id="패스_1446" data-name="패스 1446" class="cls-2" d="M1641.5,1037.342a13.983,13.983,0,0,0,11.265-5.683,13.06,13.06,0,0,0-22.531,0A13.985,13.985,0,0,0,1641.5,1037.342Z" transform="translate(-1627.503 -1009.343)"/>
+      </g>
+    </g>
+  </g>
+</svg>
