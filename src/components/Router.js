@@ -6,6 +6,7 @@ import Home from '../routes/Home';
 import Login from '../routes/Login';
 import SignUp from '../routes/SignUp';
 import Loading from './Loading';
+import DetailBlackT from '../components/DetailProd/DetailBlackT';
 
 const AppRouter = () => {
     return (
@@ -25,6 +26,10 @@ const AppRouter = () => {
 
                 <Route exact path="/Home">
                     <Home />
+                </Route>
+
+                <Route exact path="/Detail">
+                    <DetailBlackT />
                 </Route>
             </Switch>
         </Router>

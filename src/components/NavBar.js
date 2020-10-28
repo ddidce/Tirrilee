@@ -8,19 +8,6 @@ import { Link } from 'react-router-dom';
 import '../css/Home.css';
 
 const NavBar = () => {
-    const [change, setchange] = useState(false);
-    const onchange = () => {
-        return change ? (
-            <img src={BlueHome} alt="선택홈" />
-        ) : (
-            <img src={Home} alt="홈" />
-        );
-    };
-
-    const handleClick = (e) => {
-        setchange(true);
-        console.log(change);
-    };
     return (
         <>
             <ul>

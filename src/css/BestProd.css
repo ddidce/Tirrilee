@@ -63,7 +63,8 @@
     padding-left: 12px;
 }
 
-.desc>p {
+.desc>.desc_txt {
+    position: relative;
     width: 34px;
     height: 18px;
     font-family: 'Noto Sans KR', sans-serif;
@@ -75,7 +76,23 @@
     letter-spacing: normal;
     text-align: left;
     color: #707070;
-    padding-right: 5px;
+
+}
+
+.desc .desc_score {
+    position: relative;
+    width: 29px;
+    height: 18px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #707070;
+    bottom: 4px;
 }
 
 .desc>img {

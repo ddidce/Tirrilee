@@ -27,9 +27,9 @@ export default class SimpleSlider extends Component {
                         <div className="itemDesc">
                             <h3>검정 반팔티</h3>
                             <div className="desc">
-                                <p>티셔츠</p>
+                                <p className="desc_txt">티셔츠</p>
                                 <img src={star} alt="" />
-                                <p>4.9점</p>
+                                <p className="desc_score">4.9점</p>
                             </div>
                             <h2>10,000원</h2>
                         </div>
@@ -40,9 +40,9 @@ export default class SimpleSlider extends Component {
                         <div className="itemDesc">
                             <h3>하얀 반팔티</h3>
                             <div className="desc">
-                                <p>티셔츠</p>
+                                <p className="desc_txt">티셔츠</p>
                                 <img src={star} alt="" />
-                                <p>4.9점</p>
+                                <p className="desc_score">4.9점</p>
                             </div>
                             <h2>12,000원</h2>
                         </div>

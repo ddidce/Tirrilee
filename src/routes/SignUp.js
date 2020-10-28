@@ -43,7 +43,6 @@ const SignUp = () => {
         setPhone(e.target.value);
     };
 
-    console.log([email, password, nick, phone]);
     return (
         <div className="totalForm">
             <div className="header">
@@ -134,7 +133,6 @@ const SignUp = () => {
                     </div>
                 </div>
             </form>
-            {/* <button style={{ backgroundColor: email && password ? "#226bef" : null }}> */}
             <button className={onChangeBtn()}>가입완료</button>
         </div>
     );
