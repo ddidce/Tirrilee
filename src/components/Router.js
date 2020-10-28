@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Home from '../routes/Home';
 import Login from '../routes/Login';
 import SignUp from '../routes/SignUp';
 import Loading from './Loading';
@@ -20,6 +21,10 @@ const AppRouter = () => {
 
                 <Route exact path="/SignUp">
                     <SignUp />
+                </Route>
+
+                <Route exact path="/Home">
+                    <Home />
                 </Route>
             </Switch>
         </Router>

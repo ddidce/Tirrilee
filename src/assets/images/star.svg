@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #696969;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #ffda40;
+      }
+    </style>
+  </defs>
+  <g id="star_fill" transform="translate(0 0.199)">
+    <rect id="사각형_2572" data-name="사각형 2572" class="cls-1" width="12" height="12" transform="translate(0 -0.199)"/>
+    <path id="star" class="cls-2" d="M8.088,11.292,4.689,13l.649-3.618L2.588,6.82l3.8-.528L8.088,3l1.7,3.292,3.8.528-2.75,2.562L11.487,13Z" transform="translate(-1.588 -2)"/>
+  </g>
+</svg>

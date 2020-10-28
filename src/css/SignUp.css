@@ -28,7 +28,7 @@
     left: 13px;
 }
 
-h2 {
+.header_name h2 {
     width: 65px;
     height: 24px;
     font-family: 'Noto Sans KR', sans-serif;

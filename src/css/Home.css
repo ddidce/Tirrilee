@@ -1,0 +1,117 @@
+.totalsection {
+    width: 374px;
+    height: 1135px;
+    background-color: #f5f5f5;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+
+.header_logo img {
+    position: relative;
+    width: 100%;
+    height: 21px;
+    object-fit: contain;
+    margin: 0 auto;
+    margin: 10px 0;
+}
+
+/* Best Product */
+
+.bestProd {
+    position: relative;
+    width: 374px;
+    height: 333px;
+    object-fit: contain;
+    background-color: #fff;
+    top: 15px;
+}
+
+/* new Item */
+.newProd {
+    position: relative;
+    width: 374px;
+    height: 310px;
+    object-fit: contain;
+    background-color: #fff;
+    top: 15px;
+}
+
+
+/* Nav bar */
+
+ul {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 374px;
+    height: 56px;
+    object-fit: contain;
+    padding: 0;
+    margin: 0;
+    bottom: -52px;
+    box-shadow: 0 -2px 6px 0 rgba(0, 0, 0, 0.08);
+    background-color: #ffffff;
+
+}
+
+li {
+    position: relative;
+    width: 25%;
+    list-style-type: none;
+}
+li .navBar {
+    position: absolute;
+    width: 93px;
+    text-decoration: none;
+    padding-top: 5px;
+}
+
+li img {
+    position: relative;
+    left: 25%;
+}
+
+li p {
+    position: relative;
+    bottom: 3px;
+    width: 47px;
+    height: 15px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #c6c6c6;
+    display: flex;
+    justify-content: space-evenly;
+    left: -5px;
+    margin: 0 auto;
+}
+
+
+li .navHome {
+    position: relative;
+    left: -8.5px;
+    color: #226bef;
+}
+li .navSearch {
+    position: relative;
+    left: -9px;
+}
+li .navProd {
+    position: relative;
+    left: -6px;
+}
+li .navMyPg {
+    position: relative;
+    left: -6px;
+}
+
+.slick-slide div {
+    
+    width: auto;
+    margin-right: 17px;
+}

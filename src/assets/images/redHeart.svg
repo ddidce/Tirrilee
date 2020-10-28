@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #ff6565;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2 {
+        stroke: #ff6565;
+        stroke-linecap: square;
+      }
+    </style>
+  </defs>
+  <g id="_L_heart_fill" data-name="[L]heart_fill" transform="translate(0.348)">
+    <rect id="사각형_1646" data-name="사각형 1646" class="cls-1" width="24" height="24" transform="translate(-0.348)"/>
+    <path id="favourite" class="cls-2" d="M12,21l-1.45-1.295C5.4,15.125,2,12.1,2,8.4A5.4,5.4,0,0,1,7.5,3,6.037,6.037,0,0,1,12,5.05,6.037,6.037,0,0,1,16.5,3,5.4,5.4,0,0,1,22,8.4c0,3.708-3.4,6.73-8.55,11.321Z" transform="translate(0.363 0.5)"/>
+  </g>
+</svg>

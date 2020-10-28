@@ -1,0 +1,110 @@
+.itemLists {
+    position: relative;
+    top: 24px;
+    padding-left: 12px;
+    border: none;
+}
+
+.bestItem {
+    position: relative;
+    top: 12px;
+    width: 77%;
+    height: 237px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.itemLists>h2 {
+    width: 126px;
+    height: 24px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.heart {
+    position: relative;
+    top: -160px;
+    left: 259px;
+}
+
+.itemDesc {
+    position: relative;
+    bottom: 30px;
+}
+
+.itemDesc>h3 {
+    width: 78px;
+    height: 24px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    padding-left: 12px;
+}
+
+.desc {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    bottom: 25px;
+    padding-left: 12px;
+}
+
+.desc>p {
+    width: 34px;
+    height: 18px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.92;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+    padding-right: 5px;
+}
+
+.desc>img {
+    position: relative;
+    top: 2px;
+    padding-right: 5px;
+}
+
+.itemDesc>h2 {
+    position: relative;
+    left: 205px;
+    bottom: 70px;
+    width: 68px;
+    height: 24px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: right;
+    color: #226bef;
+}
+
+.slick-slide .bestItem {
+    outline: none;
+    max-width: 290px !important;
+    margin-right: -100px;
+    
+}
+

@@ -1,0 +1,45 @@
+.menuslide {
+    position: relative;
+    top: 8px;
+    width: 374px;
+    height: 101px;
+    object-fit: contain;
+    background-color: #ffffff;
+
+}
+
+.menuslide .slideImg {
+    position: relative;
+    top: 10px;
+}
+
+.slick-slide div {
+    outline: none;
+}
+
+.menuslide .slick-list {
+    height: 100px;
+}
+
+.menuslide img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.menuslide p {
+    width: 34px;
+    height: 18px;
+    object-fit: contain;
+    font-size: 12px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #c6c6c6;
+    margin: 0 auto;
+}

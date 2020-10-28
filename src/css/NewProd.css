@@ -1,0 +1,114 @@
+.newItems > h2 {
+    width: 93px;
+    height: 24px;
+    object-fit: contain;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    padding-left: 12px;
+    padding-top: 15px;
+}
+.prod {
+    width: 160px;
+    height: 214px;
+    object-fit: contain;
+    border-radius: 4px;
+    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    margin-left: 12px;
+}
+
+.prod_item>.itemImg {
+    width: 170px;
+    height: 120px;
+    object-fit: contain;
+    background-color: #f5f5f5;
+    z-index: -1;
+}
+
+
+.prod_item>.name {
+    position: relative;
+    bottom: 5px;
+    width: 81px;
+    height: 20px;
+    object-fit: contain;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    padding-left: 12px
+}
+
+.prod_item .tag {
+    position: relative;
+    bottom: 10px;
+    width: 34px;
+    height: 18px;
+    object-fit: contain;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.92;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+    padding-left: 12px;
+}
+
+.price>h2 {
+    position: relative;
+    width: 59px;
+    height: 20px;
+    object-fit: contain;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: normal;
+    text-align: right;
+    color: #226bef;
+    bottom: 20px;
+}
+
+.scroe {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    bottom: 0;
+    bottom: 62px;
+    left: 115px;
+}
+
+.scroe p {
+    position: relative;
+    width: 28px;
+    height: 18px;
+    object-fit: contain;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #707070;
+    left: 10px;
+    bottom: 5px;
+}
